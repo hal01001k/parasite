@@ -11,3 +11,6 @@ export const lb = {
 export const lb1 = {
     paddingTop: "16px"
 }
+export const hm = {
+    paddingTop:"25px"
+}

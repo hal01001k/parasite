@@ -12,7 +12,7 @@ function Header() {
         return (
             <div>
                 <Navbar color="light" light expand="md">
-                    <NavbarBrand href="/">AlmaBetter</NavbarBrand>
+                    <NavbarBrand href="/home">AlmaBetter</NavbarBrand>
                     <Nav className="mr-auto" navbar>
                         <NavItem>
                             <NavLink href="/enter">Enter Marks</NavLink>
